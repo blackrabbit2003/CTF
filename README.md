@@ -1,9 +1,10 @@
-## Introduction
+# Introduction
 -----------------------
->**Name**: Phạm Trung Kiên
->**Born in**: 2003
->**From**: EHC-Ethical Hacker Club
->**Study**: FPT university
+**Name**: Phạm Trung Kiên </br>
+**Born in**: 2003 </br>
+**From**: EHC-Ethical Hacker Club </br>
+**Study**: FPT university </br>
+**Contact**: kienpthe170936@fpt.edu.vn
 
 ## CTF
 ----
